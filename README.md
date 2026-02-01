@@ -39,4 +39,3 @@ A smart educational platform that converts YouTube videos into interactive learn
 
 - 🔭 I’m currently working on Guided learning platform which is powered by Gemni
 - 🌱 I’m currently learning Kubernetes (K8s) 
-- 📫 How to reach me: manirathinam031@gmail.com
