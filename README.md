@@ -24,7 +24,7 @@ I'm a passionate developer building intelligent web applications. I love explori
 
 ### 🔭 Current Project
 
-**[Learning Assistance AI](https://github.com/yourusername/learning-ai)**
+**[Learning Assistance AI](https://github.com/Manratthinam/learning-ai)**
 A smart educational platform that converts YouTube videos into interactive learning sessions.
 - **Frontend**: Angular 21 + Tailwind CSS
 - **Backend**: FastAPI (Python)
@@ -37,10 +37,6 @@ A smart educational platform that converts YouTube videos into interactive learn
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/manirathinam-k-b7b8771b8/)
 - 📧 Email: [manirathinam031@gmail.com](mailto:manirathinam031@gmail.com)
 
-<!--
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Guided learning platform which is powered by Gemni
 - 🌱 I’m currently learning Kubernetes (K8s) 
 - 📫 How to reach me: manirathinam031@gmail.com
--->
