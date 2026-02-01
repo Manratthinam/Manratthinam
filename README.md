@@ -32,19 +32,6 @@ A smart educational platform that converts YouTube videos into interactive learn
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</a>
-</p>
-
----
-
 ### 📫 Connect with me
 
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/manirathinam-k-b7b8771b8/)
